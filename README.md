@@ -1,4 +1,4 @@
-# โปรเจกต์ทดลอง Git/GitHub (แก้จาก Master)
+# โปรเจกต์ทดลอง Git/GitHub
 
 นี่คือไฟล์แรกที่สร้างเพื่อฝึกใช้งาน git add, commit และ push
 
